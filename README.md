@@ -54,6 +54,15 @@ If you want to see the build results and project output, you can view them throu
 - Jenkins pipeline for continuous integration.
 - Clear build logs and status monitoring through Jenkins.
 
+## 🚀 Continuous Integration Build
+
+The Jenkins build for this project can be found at the following link:
+
+[Jenkins Build Status](http://localhost:9090/job/hello-java-maven/4/)
+
+Every time a commit is made, Jenkins will automatically trigger a build to compile and test the application.
+
+
 ---
 
 ## 🖼 Screenshot
