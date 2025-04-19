@@ -57,4 +57,4 @@ If you want to see the build results and project output, you can view them throu
 ---
 
 ## 🖼 Screenshot
-![Website Screenshot](https://github.com/Maharshi08/my-static-website/raw/main/screenshot.png)
+![Website Screenshot](https://github.com/Maharshi08/hello-java-maven/raw/main/Screenshot2.png)
